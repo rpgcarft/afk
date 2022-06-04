@@ -2,5 +2,5 @@
 	"ip":"RPGSurvivalCraft.aternos.me",
 	"port": "19589",
 	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
