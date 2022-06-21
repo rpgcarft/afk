@@ -1,6 +1,6 @@
 {
-	"ip":"RPGSurvivalCraft.aternos.me",
-	"port": "19589",
-	"name": "afkbot1",
-	"auto-night-skip":"false"
+	"ip":"Techin0001.aternos.me",
+	"port": "40320",
+	"name": "BOT",
+	"auto-night-skip":"true"
 }
